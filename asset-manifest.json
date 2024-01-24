@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gynodevir/TodoReact/static/css/main.2d67f094.css",
+    "main.js": "/gynodevir/TodoReact/static/js/main.971d09bc.js",
+    "static/media/boxicons.svg": "/gynodevir/TodoReact/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/gynodevir/TodoReact/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/gynodevir/TodoReact/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/gynodevir/TodoReact/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/gynodevir/TodoReact/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "index.html": "/gynodevir/TodoReact/index.html",
+    "main.2d67f094.css.map": "/gynodevir/TodoReact/static/css/main.2d67f094.css.map",
+    "main.971d09bc.js.map": "/gynodevir/TodoReact/static/js/main.971d09bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d67f094.css",
+    "static/js/main.971d09bc.js"
+  ]
+}
